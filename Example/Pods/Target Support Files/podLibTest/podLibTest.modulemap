@@ -1,0 +1,6 @@
+framework module podLibTest {
+  umbrella header "podLibTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

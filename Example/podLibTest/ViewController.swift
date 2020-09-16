@@ -7,11 +7,14 @@
 //
 
 import UIKit
+import podLibTest
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        let _ = RedViewController()
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 
